@@ -20,6 +20,7 @@ const Details = () => {
                     <h4>UserId: {details.userId}</h4>
                     <h3>Title: {details.title}</h3>
                     <p>Body: {details.body}</p>
+                    <hr/>
                     <Comment></Comment>
                 </div>
             </Container>
